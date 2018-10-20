@@ -1,5 +1,5 @@
 _repo: The-Great-Fortress-A-chronicle-of-Louisbourg-1720-1760_6026
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcc 'F1001'
 - !lcsh 'Louisbourg (N.S.) -- History -- Siege, 1758'
 - !lcsh 'Louisbourg (N.S.) -- History -- Siege, 1745'
+- GITenberg
 title: 'The Great Fortress : A chronicle of Louisbourg 1720-1760'
 url: http://www.gutenberg.org/ebooks/6026
